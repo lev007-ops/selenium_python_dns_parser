@@ -1,2 +1,4 @@
 chromedriver.exe
 site.html
+config.py
+/__pycache__
